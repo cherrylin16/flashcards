@@ -1,0 +1,36 @@
+body {
+  align-items: center;
+}
+
+#root{
+  text-align: center;
+  padding: 40px;
+  font-family: Garamond;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.flashcard{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-width: 700px;
+  min-height: 500px;
+  max-width: 600px;
+  width: 100%;
+  margin: 50px auto;
+  color: black;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  padding: 30px;
+}
+
+.button {
+  height: 40px;
+  width: 100px;
+}
+
+
