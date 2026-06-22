@@ -33,9 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
